@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whoonlyseewendy
-- 👀 I’m interested in Javascript and UI / UX Design
+- 👀 I’m interested in Javascript, PHP and UI / UX Design
 - 🌱 I’m currently learning React and Fullstack Web Developer
 - 📫 How to reach me amdrizalc@gmail.com
 
