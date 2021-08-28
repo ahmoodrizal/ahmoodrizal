@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whoonlyseewendy
-- 👀 I’m interested in Javascript, PHP and UI / UX Design
-- 🌱 I’m currently learning React and Fullstack Web Developer
+- 👀 I’m interested in PHP , Flutter , and UI / UX 
+- 🌱 I’m currently learning Laravel and Flutter
 - 📫 How to reach me amdrizalc@gmail.com
 
 <!---
