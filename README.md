@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmoodrizal
-- 👀 I’m interested in PHP , Flutter , and UI / UX 
+- 👀 I’m interested in Laravel , Flutter , and UI / UX 
 - 🌱 I’m currently learning Laravel and Flutter
 - 📫 How to reach me amdrizalc@gmail.com
 
