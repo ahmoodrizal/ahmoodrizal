@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmad Rizal Imaduddin
-- 👀 I’m interested in Laravel , Flutter , and UI / UX 
+- 👀 I’m interested in Laravel , Flutter , Data analyst and Copywriting
 - 🌱 I’m currently learning Laravel and Flutter
 - 📫 How to reach me amdrizalc@gmail.com
 
